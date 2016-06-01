@@ -1,0 +1,263 @@
+.wrapper{
+  width: 1200px;
+  margin:auto;
+  }
+
+.whole_Web {
+  height: auto;;
+  width: auto;
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  background: url("img/bg.png");
+}
+
+.header {
+  height: 95px;
+  background-color:#473a2d;
+}
+              .main_logo{
+                margin-top: 25px;
+                margin-left: 100px;
+                          }
+              .navigation_bar{
+                float:right;
+                height: 43px;
+                width: 450px;
+                margin-top: 25px;
+                margin-right: 250px;
+                text-decoration-color: white;
+                              }
+
+                                      .just_menu {
+                                      height:43px;
+                                      width:200px;
+                                    }
+
+                                    .menu_dizain{
+                                    color: #ffffff;
+                                    text-decoration: none;
+                                    font-size:11pt;
+                                    display: inline-block;
+                                    padding:11px;
+                                                }
+
+                                    .menu_dizain:hover{
+                                    background-color: rgba(255, 255, 255, 0.15);
+                                    cursor: pointer;
+                                                        }
+
+                                    .menu_dizain_kontakti{
+                                    color: #ffffff;
+                                    text-decoration: none;
+                                    font-size:11pt;
+                                    display: inline-block;
+                                    padding:11px;
+                                    border-right: 2px solid white;
+                                    }
+
+                                    .menu_dizain_kontakti:hover{
+                                    background-color: rgba(255, 255, 255, 0.15);
+                                    cursor: pointer;
+                                                                }
+
+              .language_bar {
+                float:right;
+                height: 43px;
+                width: 100px;
+                margin-top: 28px;
+                margin-right: -550px;
+                text-decoration-color: white;
+                text-size:11pt;
+              }
+
+                                    .menu_language_dizain {
+                                      color: #ffffff;
+                                      text-decoration: none;
+                                      font-size:10pt;
+                                      display: inline-block;
+                                      padding:8px;
+                                    }
+
+                                    .menu_language_dizain:hover{
+                                    background-color: rgba(255, 255, 255, 0.15);
+                                    cursor: pointer;
+                                                                }
+
+
+
+                                                              /*This is Slider Block*/
+.slider {
+  height: 593px;
+  background-image:url("img/slider.png");
+  background-size:cover;
+}
+                  /*  .left_button{
+                      height: 40px;
+                      width: 40px;
+                      position:absolute;
+                      background-color: black;
+                      top: 389px;
+                      left: 100px;
+                    }*/
+                                          .left_button{
+                                          position: absolute;
+                                          height: 29px;
+                                          width: 18px;;
+                                          opacity: 0.20;
+                                          margin-top: 250px;
+                                          margin-left: 0px;
+                                                     }
+            /*        .right_button{
+                      height: 40px;
+                      width: 40px;
+                      position:absolute;
+                      background-color: black;
+                      top: 389px;
+                      right: 100px;
+                    }*/
+                                          .right_button{
+                                            position: absolute;
+                                            height: 29px;
+                                            width: 18px;;
+                                            opacity: 0.20;
+                                            margin-top: 250px;
+                                            margin-left: 1172px;
+                                                      }
+.buttom_slider_buttons_block{
+  width: 70px;
+  height: 30px;
+  /*background-color: black;*/
+  position: absolute;
+  top:666px;
+  left:50%;
+}
+
+                                        .buttom_slider_button{
+                                          width: 11px;
+                                          height: 11px;
+                                          background-color: black;
+                                          display: inline-block;
+                                          border-radius: 50%;
+                                          border: 2.5px solid black;
+                                          opacity: 0.25;
+                                          margin: 2px;
+                                        }
+
+                                        .buttom_slider_button:hover{
+                                          background-color: white;
+                                          cursor: pointer;
+                                          border: 2.5px solid black;
+                                          /*opacity: 0.10;*/
+                                        }
+
+
+
+
+.upper_text_block{
+  height: 70px;
+  width: 266px;
+  margin-top: 220px;
+  margin-left: 84px;
+  display:inline-block;;
+background-color: rgba(0, 0, 0, 0.5);
+}
+                .upper_text_block{
+                font-size: 34pt;
+                color: white;
+                text-align: center;
+                }
+
+.lower_text_block{
+  height: 75px;
+  width: 385px;
+  margin-top: 20px;
+  margin-left: 85px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+                    .lower_text_block{
+                      padding-top:10px;
+                      padding-bottom: 10px;
+                      padding-left: 10px;
+                      padding-right: 10px;
+                      font-size: 18pt;
+                      color: white;
+                      text-align: left;
+                    }
+
+
+
+                                                              /*this is Pakalpokumi block*/
+
+
+
+.pakalpojumi {
+  height: 656px;
+  /*background-color: green;*/
+}
+.logo_pakalpojumi_block{
+  height: 80px;
+  /*text-align: center;*/
+  border-bottom: 2px dashed #000;
+  text-decoration: none;
+  /*opacity: 0.45;*/
+}
+
+.logo_text_block{
+  position: absolute;
+  margin-left: 535px;
+  /*text-align: center;*/
+  /*color: #95782d;*/
+  /*font-size: 22pt;*/
+  /*margin-top: 40px;*/
+  height: auto;
+  width: 110px;
+}
+
+.logo_text{
+  text-align: center;
+  color: #95782d;
+  font-size: 22pt;
+  margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pakalpojumi_izcenojumi {
+  height: 628px;
+  background-color: yellow;
+}
+
+.par_mums {
+  height: 1035px;
+  background-color: purple;
+}
+
+.logo_content {
+  height: 582px;
+  background-color: pink;
+}
+
+.footer {
+  height: 545px;
+  background-color: black;
+}
